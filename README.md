@@ -16,4 +16,9 @@
 ##
    1. #### Criar um recurso de Fala de IA do Azure
    2. #### Explorar a conversão de voz em texto no Speech Studio
-   
+
+
+> ## Referências:
+
+ - [Explore Speech Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
+ - [Analyze text with Language Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
